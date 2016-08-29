@@ -32,7 +32,8 @@ p cnf 3 2 1
 EQ (-0.3)1 (3)2 3
 ```
 
-which corresponds to the GenPSAT problem [![genpsat](https://github.com/fcasal/genpsat/blob/master/img/ex1.jpg?raw=true)]
+which corresponds to the GenPSAT problem 
+![genpsat](https://github.com/fcasal/genpsat/blob/master/img/ex1.jpg?raw=true)
 
 ## Releases
 * v0.1 -- Initial release in August 2016
