@@ -24,7 +24,8 @@ The solver accepts input files in the following format:
 
 One example of this format is the following
 
-```c usage p cnf nvar nclauses nprobs
+```
+c usage p cnf nvar nclauses nprobs
 p cnf 3 2 1
 1 -2 3 0
 2 1 -3 0
