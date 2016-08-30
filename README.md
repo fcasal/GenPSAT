@@ -38,3 +38,6 @@ which corresponds to the GenPSAT problem
 
 ## Releases
 * v0.1 -- Initial release in August 2016
+
+## References
+* C. Caleiro, F. Casal, and A. Mordido. _Generalized probabilistic satisfiability_. ![Preprint](http://sqig.math.ist.utl.pt/pub/CaleiroC/16-CCM-genpsat.pdf), SQIG - IT and IST - U Lisboa, 1049-001 Lisboa, Portugal, 2016.
